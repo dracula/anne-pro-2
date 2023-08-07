@@ -1,19 +1,12 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+### [Anne Pro 2](https://www.hexcore.xyz/annepro2)
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Download the [light
+   profile](https://github.com/dracula/anne-pro-2/blob/master/dracula.json)
+2. Open `Obinskit`
+3. Select `Light` in the left menu
+4. Click on `Import` button
+5. Select the Dracula profile downloaded
+6. Be happy :)
+
