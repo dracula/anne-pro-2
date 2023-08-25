@@ -2,7 +2,7 @@
 
 > A dark theme for [Anne Pro 2](https://www.hexcore.xyz/annepro2).
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
