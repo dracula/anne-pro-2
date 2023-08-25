@@ -8,5 +8,4 @@
 3. Select `Light` in the left menu
 4. Click on `Import` button
 5. Select the Dracula profile downloaded
-6. Be happy :)
-
+6. Be happy 😁

@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/anne-pro-2](https://draculath
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/anne-pro-2/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) | [![Gildásio Júnior](https://github.com/gildasio.png?size=100)](https://github.com/gildasio)  | [![Anisio Santos](https://github.com/anisiosts.png?size=100)](https://github.com/anisiosts) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               | [Gildásio Júnior](https://github.com/gildasio)                                               | [Anisio Santos](https://github.com/anisiosts)                                               |
+| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) | [![Gildásio Júnior](https://github.com/gildasio.png?size=100)](https://github.com/gildasio) | [![Anisio Santos](https://github.com/anisiosts.png?size=100)](https://github.com/anisiosts) |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               | [Gildásio Júnior](https://github.com/gildasio)                                              | [Anisio Santos](https://github.com/anisiosts)                                               |
 
 ## Community
 
